@@ -1,0 +1,4 @@
+openai-agents>=0.22.0
+pydantic>=2.12.2
+python-dotenv>=1.0.0
+httpx>=0.25.0
